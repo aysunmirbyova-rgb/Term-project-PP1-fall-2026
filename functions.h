@@ -22,3 +22,4 @@ void print_student_item (Student s);
 void edit_student_item (Student s);
 void delete_student_item (Student s);
 void add_student (Student s);
+int wrong_input_number_detector(int n);
